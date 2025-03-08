@@ -43,12 +43,13 @@ class UiProfile extends StatelessWidget {
               SizedBox(
                 height: 30,
               ),
-      
+
+              Text("hello"),
               //   Skills section
               const Row(
                 children: [
                   Text(
-                    "Skills",
+                    "Skill",
                     style: TextStyle(fontSize: 20),
                   )
                 ],
